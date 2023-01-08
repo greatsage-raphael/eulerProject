@@ -17,7 +17,7 @@ function pythagoreanTriplet(targetSum) {
   
     // if no Pythagorean triplet is found, return null
     return null;
-  }
+}
   
   // test the function with the target sum of 1000
   console.log(pythagoreanTriplet(1000)); // should output 31875000
